@@ -17,7 +17,7 @@ Para executar este exercício, você pode criar uma nova aplicação React ou us
 
 Link do codesandbox: https://codesandbox.io/s/autorizacao-autenticacao-exercicio-dq1j8t
 
-Link da API: https://documenter.getpostman.com/view/9133542/U16dQniU#8580d537-61a5-4c89-950a-e8d0a1ebbc99
+Documentação da API: https://documenter.getpostman.com/view/9133542/U16dQniU#8580d537-61a5-4c89-950a-e8d0a1ebbc99
 
 ** Observação: Na documentação da API a base URL está errada! A correta é: http://cookenu.labenu.com.br 
 
