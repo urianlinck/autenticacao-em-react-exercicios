@@ -19,7 +19,7 @@ Link do codesandbox: https://codesandbox.io/s/autorizacao-autenticacao-exercicio
 
 Documentação da API: https://documenter.getpostman.com/view/9133542/U16dQniU#8580d537-61a5-4c89-950a-e8d0a1ebbc99
 
-** Observação: Na documentação da API a base URL está errada! A correta é: http://cookenu.labenu.com.br 
+** Observação: Na documentação da API a base URL está errada! A correta é: https://api-cookenu.onrender.com
 
 # Exercício 1
 Na página LoginPage utilize o endpoint Login para implementar a função de logar na aplicação. 
