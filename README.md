@@ -15,7 +15,7 @@ Para executar este exercício, você pode criar uma nova aplicação React ou us
 
 * Caso use este template, lembre-se de dar um `npm install` dentro da pasta raiz do projeto assim que baixar!
 
-Link do codesandbox: https://codesandbox.io/s/autorizacao-autenticacao-exercicio-dq1j8t
+Link do codesandbox: https://codesandbox.io/s/autenticacao-em-react-exercicios-3dtf8y
 
 Documentação da API: https://documenter.getpostman.com/view/21151478/2s8YzMZRju#intro
 
