@@ -30,6 +30,6 @@ Salve o token no Local Storage.
 Assim que um usuário se cadastrar na aplicação, ele deve ser redirecionado para a página de Feed.
 
 # Exercício 3
-Proteja a página de Feed para que seja acessível apenas para usuários autenticados e autorizados. Se quiser, crie um Custom Hook para isso!
+Proteja a página de Feed (Get all recipes) para que seja acessível apenas para usuários autenticados e autorizados. Se quiser, crie um Custom Hook para isso!
 
 
